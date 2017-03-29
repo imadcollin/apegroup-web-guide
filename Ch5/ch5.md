@@ -2,7 +2,7 @@
 
 ## Gulp, Gulp, and Gulpppp! Wow.... 
 Well, you need to drive easy so, Gulp is the key now 
-So, you must taste that also,
+So, Let's try some coding :) 
 
 ## Important:
 We make that easier for you also :) 

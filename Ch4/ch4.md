@@ -2,7 +2,7 @@
 Hmm. So, don’t you think it is time to fly with some coding and see some tricks and examples with nodeJs and ES6?
 
 #### Note(1): 
-This section was harder more than what I thought anyway, clone the files and check them out. A lot of new things and tricks it took me some effort to remember everything but I tried to write some coding and copy some from many recourses check them and enjoy.
+This section was harder and it took some effort , clone the files and check them out. A lot of new things and tricks it took me some effort to remember everything but I tried to write some coding and copy some from many recourses check them and enjoy.
 
 ### Why not ES6 from the beginning?
 Because a lot of examples online could be old and ES6 syntax not used, therefore I start this work earlier with normal JavaScript not ES6 
@@ -14,7 +14,7 @@ Basically, just you have to use this new feature when you coding.
 Ok. Real code and best examples exist online and hand coded examples?
 
 **Let’s we start:** 
-- Open your visual studio code editor 
+- Open Visual Studio Code 
 - Go to Extensions 
 - Search for these two Marketplaces 
 
@@ -249,5 +249,6 @@ Add seta/icon: for nice icons and folder tree
 This will produce nice color for your code and parentheses 
 1. Material icon theme:
 Also for icons and nice folder trees 
+1. Babel 
 
 For more details check with your colleagues to see theirs favorites or surf and add by yourself 

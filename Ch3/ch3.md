@@ -1,7 +1,7 @@
 # Chapter 3
 Contains the main keys for get and sharing code and project with others 
 
-**e.g.** Creating, cloning, rebasing. 
+**e.g.** Creating, cloning,rebase. 
 Also, markdown language and the sample where you can anywhere
 
 ### GitHub
@@ -9,6 +9,8 @@ What are the following and how to use? 
  - Create 
  - Clone 
  - Delete 
+ - Pull 
+ - Push
  - Local branch 
  - Remote branch 
  - How to revert 
@@ -47,7 +49,7 @@ Web application it could be used as template as well
 ## Title 
 
 ```
- Nodejs and Java Script 
+ Nodejs and JavaScript
 ```
 
 ```

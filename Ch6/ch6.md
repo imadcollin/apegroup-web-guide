@@ -1,12 +1,12 @@
 # Chapter 6 
-Now, almost we were done. Two small things we must cover and then u will build nice projects for Apegroup.
+Now, almost we were done. Two small things we must cover and then you will build nice projects for Apegroup.
 
 ### Intro
 In this chapter, you should check the normal packages that we use all the time in all our projects. 
-So, please check the file below and once again” Go to your colleagues in case of any problem. It could be difficult to catch everything inside but, this important to know.
+So, please check the file below and once again” go to your colleagues in case of any problem. It could be difficult to catch everything inside but, this important to know.
 
 ### Package.json 
-> this file is the main part of any project we built.These files include the scripts,
+> this file is the main part of any project we build.These files include the scripts,
 > which will run when we start the project.
 > It also contains the server , gulp task, and more executing command. 
 > You shall learn these scripts and how they are working :) 
@@ -25,7 +25,7 @@ So, please check the file below and once again” Go to your colleagues in case 
   },
   /*******************************************************************************
 2. The scripts -This could be differ from an implementation to another 
-   Remember Scripts need to run with npm command like: npm run gulp  
+   Remember  some Npm scripts  need to run with the npm run like: npm run gulp  
   *******************************************************************************/
   "scripts": {
     "firebase": "firebase",
@@ -39,7 +39,7 @@ So, please check the file below and once again” Go to your colleagues in case 
   },
   /*******************************************************************************
 3. We write our server dependencies here 
-   -Koa is a backage where you can find online //try to see express as well 
+   -Koa is a backage that you can find online //Check out ExpressJS as well 
   *******************************************************************************/
   "dependencies": {
     "koa": "^2.0.0-alpha.7",
@@ -49,7 +49,7 @@ So, please check the file below and once again” Go to your colleagues in case 
     "koa-static": "^3.0.0"
   },
   /*******************************************************************************
-4.  This section contains all required dependencies for running/compiling/Interpretering 
+4.  This section contains all required dependencies for running/compiling/Interpretering/transpiling
     the files and code to understandable language by the machine
     -Try to read about babel and what it doing 
     -Try to read about browser/sync 
@@ -71,7 +71,7 @@ So, please check the file below and once again” Go to your colleagues in case 
   },
  /*******************************************************************************
 4. Here you can define the data as needed --remember always what we are doing is for 
-   Ape group not for our private names :)
+   Apegroup not for our private names :)
   *******************************************************************************/
   
   "repository": {
