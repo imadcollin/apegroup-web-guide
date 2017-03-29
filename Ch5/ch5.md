@@ -19,6 +19,26 @@ Everthing written down there are based one JavaScript so, remmber to use ES6 whe
 
 ### Common Gulp Tasks 
 
+#### Important 
+Don't forgot to replace JavaScript with ES6 :) 
+Here an example:
+
+```diff
+var browserSync = require('browser-sync')
+-var browserSync ;  
++let browserSync ; //or const browserSync;
+
+-require
++import 
+```
+**Another Example**
+```diff
+var gulp = require('gulp'); 
+-var gulp = require('gulp');    
++import gulp from 'gulp';
+
+```
+
 
 ```javascript
 /*******************************************************************************
