@@ -1,4 +1,4 @@
-#Chapter 4 
+# Chapter 4 
 Hmm. So, don’t you think it is time to fly with some coding and see some tricks and examples with nodeJs and ES6?
 
 #### Note(1): 
@@ -174,3 +174,29 @@ sayMyName('Wes');
 
 
 ```
+
+
+## Appendix:
+### Vs Code Extensions: 
+We make that easier for you and we created a gist on GitHub so all what you should do is just to clone 
+
+1. Code Runner:
+add this extension to be able running your code directly from js files and see the results 
+1. Debugger for Chrome:
+Add this for debugging with google chrome where you can set some break points and track your project
+1. JSLint:
+This will help you to analysis you code with JavaScript syntax 
+1. HTML and CSS snippet 
+Those two extension will help you easily to show the markup language intelligence 
+1. Polymer IDE:
+This will help you to see cool suggestion regarding polymer and its syntax 
+1. JavaScript ES6 code snippet:
+Provide nice interlaces regarding JavaScript code and suggestion to correct 
+Extension for butterfly:
+Add seta/icon: for nice icons and folder tree 
+1. Rainbow Brackets:
+This will produce nice color for your code and parentheses 
+1. Material icon theme:
+Also for icons and nice folder trees 
+
+For more details check with your colleagues to see theirs favorites or surf and add by yourself 
