@@ -1,12 +1,12 @@
 # Chapter 2
 Quick start with examples and references in addition some real coding examples to get familiar with your future tools 
 
-## Java Script
+## JavaScript
 We assume that you already have some knowledge about at least one programming languages most likely **Java** as it is in most common language used in Sweden or European countries 
 So, your mission now is to see some new stuff in __JavaScript__ and get familiar with it.
 
 ### Intro
-Please scan the following link and read it carefully, once again, don’t copy everything to your mind because you will feel tired fast.
+Please scan the follow the links below and read them carefully, once again, don’t copy everything to your mind because you will feel tired fast.
 
 **You must:** Understand, discover, learn and apply this is the keywords:) 
 

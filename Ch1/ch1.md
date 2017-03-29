@@ -5,13 +5,13 @@ Installing, starting and listing the tools, frameworks, libraries and any other 
 ## Required tools
 Start by Installing the following tools:
 Primary 
- - Npm 
+ - NodeJs 
  - OH, My ZSH  
  - Google chrome
  - Homebrew 
- - GitHub tools 
- - NodeJs 
- - VS code editor 
+ - Git tools 
+ - XCode Command Line Tools
+ - Visual Studio Code editor 
 
 ### Note(1)
 Remember brew is your choice for installing from now. 

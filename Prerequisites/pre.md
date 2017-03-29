@@ -5,13 +5,13 @@ We believe that you like to build your future and start your life with coding an
 So, please follow the guide and work step by step we promise that you will achieve a lot in short period. 
 
 ## For you as a Junior:
-We assume that you have a good background regarding programming and coding that mean at least you have a solid background with OOP and most common web techniques such as: HTML CSS and JS (Polymer/angular/or whatever framework you used before) 
+We assume that you have a good background regarding programming and coding that mean at least you have a solid background with OOP and most common web techniques such as: HTML CSS and JS (Polymer/AngularJS or other framework you used ).
 
 ## What I should/must do?
  Well, check these characteristics out.
 
 ### Programming:
-You need the following key skills:
+You need to know what is:
  - Identifiers
  - Datatypes
  - Arrays 
@@ -32,5 +32,7 @@ You need the following key skills:
 
 ### CSS
  You should know at least: 
- - Syntax, pseudo selectors and attributes selectors 
+ - Syntax, pseudo selectors and attributes selectors.
+ - Inheritance and specificity.
  - Padding, margin, borders and basics styling attributes.
+ - Basic CSS transitions and animation.
