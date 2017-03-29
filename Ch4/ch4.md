@@ -174,6 +174,57 @@ sayMyName('Wes');
 
 
 ```
+# Spreed Operator 
+
+```javascript
+/*******************************************************************************
+1. How to use spreed ooperator 
+*******************************************************************************/
+const num = {
+    even: 2,
+    odd: 1,
+    zero: 0,
+    alphabet: ['A', 'B']
+};
+//See how the spreed-ooperator works :) 
+const combine = [num.even, num.odd, ...num.alphabet];
+console.log(combine);
+
+/*******************************************************************************
+2. Arrays with Spreed operator 
+*******************************************************************************/
+
+const comments = [
+    { id: 20 },
+    { id: 523423 },
+    { id: 632429},
+    { id: 192834 },
+];
+const id = 63249;
+const commentIndex = comments.map(function (comment) {
+
+    let [a, d] = [`yes`, `no`];
+     (comment.id == id)?console.log(a): console.log(d);
+    
+});
+
+console.log(commentIndex); // undefined why? Yes, Right no return :) 
+
+
+/*******************************************************************************
+3.combine two array together with spreed
+*******************************************************************************/
+
+const arr1=[1,2,3,4,5]
+const arr2=[6,7,8,9,10]
+
+const join = [...arr1, ...arr2, 30,40,50,60];
+console.log(join);
+
+//Note 1: You can use concat 
+//There are many ways to merge two or three arrays.
+
+```
 
 
 ## Appendix:
